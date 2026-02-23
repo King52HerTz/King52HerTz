@@ -5,8 +5,8 @@
 <br/>
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=King52HerTz&show_icons=true&theme=tokyonight&hide_border=true" alt="我的 GitHub 统计" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King52HerTz&theme=tokyonight&hide_border=true" alt="GitHub 连续打卡" /> 
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=King52HerTz&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="我的 GitHub 统计" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=King52HerTz&theme=tokyonight&hide_border=true" alt="GitHub 连续打卡" /> 
 </div>
 
 <br/>
