@@ -6,7 +6,7 @@
 - 🌱 目前正在肝：Java 后端生态 (Spring Boot, MySQL) 以及底层原理
 - ⚡ 技能树：前端 React + TS，后端正由 Python 脚本过渡到 Java 后端开发
 - 📫 欢迎交流，联系邮箱：[shdx2024@qq.com](mailto:shdx2024@qq.com)
-- 😄 签名：“懒得在教室里磨洋工，理论听腻了，直接代码见。”
+- 😄 签名：“The world is too loud. Don't listen, don't look, don't care. Just keep moving forward.”
 - 💬 现在的目标是潜心修炼，憋个大招。等满级出关，这里会放满硬核的实战项目！
 
 <br/>
