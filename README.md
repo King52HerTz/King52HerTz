@@ -2,7 +2,7 @@
 
 <a href="https://github.com/King52HerTz"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="230" /></a>
 
-- 🔭 状态：计算机大二在读 | 专注方向：Java 后端开发
+- 🔭 状态：计算机大三在读 | 专注方向：Java 后端开发
 - 🌱 目前正在肝：Java 后端生态 (Spring Boot, MySQL) 以及底层原理
 - ⚡ 技能树：前端 React + TS，后端正由 Python 脚本过渡到 Java 后端开发
 - 📫 欢迎交流，联系邮箱：[shdx2024@qq.com](mailto:shdx2024@qq.com)
@@ -37,20 +37,6 @@
 ![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-
-
-## 🚀 我的活跃度轨迹 
-
-<p align="center">
-  <a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=King52HerTz&theme=tokyo-night&custom_title=Activity&radius=15&height=300" alt="Activity Graph">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  </a>
-</p>
 
 ## 交个朋友 👬🏻
 
