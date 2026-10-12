@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8957E5&height=170&section=header&text=Eliauk&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=Java%20Backend%20Developer%20%C2%B7%20AI%20Agent%20%26%20RAG&descSize=17&descAlignY=58" />
+<img width="100%" src="https://raw.githubusercontent.com/King52HerTz/King52HerTz/main/assets/banner.svg" />
 
 `Spring Boot` · `MySQL` · `Redis` · `Spring AI` · `LangChain4j`
 
@@ -72,6 +72,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:1F6FEB&height=120&section=footer&fontSize=1" />
+<img width="100%" src="https://raw.githubusercontent.com/King52HerTz/King52HerTz/main/assets/footer.svg" />
 
 </div>
