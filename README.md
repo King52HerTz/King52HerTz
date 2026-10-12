@@ -17,8 +17,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=King52HerTz&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&card_width=400&border_radius=10&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=King52HerTz&show_icons=true&hide_border=true&bg_color=F6F8FA&title_color=0969DA&text_color=1F2328&icon_color=8250DF&card_width=400&border_radius=10&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=King52HerTz&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&card_width=400&border_radius=10&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats&cache_seconds=14400" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=King52HerTz&show_icons=true&hide_border=true&bg_color=F6F8FA&title_color=0969DA&text_color=1F2328&icon_color=8250DF&card_width=400&border_radius=10&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats&cache_seconds=14400" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=King52HerTz&hide_border=true&card_width=400&border_radius=10&background=161B22&border=161B22&stroke=58A6FF&ring=BC8CFF&fire=E3B341&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
