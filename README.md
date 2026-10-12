@@ -1,47 +1,77 @@
-## Hi there 👋，我是 Eliauk！ 
+<div align="center">
 
-<a href="https://github.com/King52HerTz"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="230" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8957E5&height=170&section=header&text=Eliauk&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=Java%20Backend%20Developer%20%C2%B7%20AI%20Agent%20%26%20RAG&descSize=17&descAlignY=58" />
 
-- 🔭 状态：计算机大三在读 | 专注方向：Java 后端开发
-- 🌱 目前正在肝：Java 后端生态 (Spring Boot, MySQL) 以及底层原理
-- ⚡ 技能树：前端 React + TS，后端正由 Python 脚本过渡到 Java 后端开发
-- 📫 欢迎交流，联系邮箱：[shdx2024@qq.com](mailto:shdx2024@qq.com)
-- 😄 签名：“The world is too loud. Don't listen, don't look, don't care. Just keep moving forward.”
-- 💬 现在的目标是潜心修炼，憋个大招。等满级出关，这里会放满硬核的实战项目！
+`Spring Boot` · `MySQL` · `Redis` · `Spring AI` · `LangChain4j`
 
-<br/>
+</div>
+
+## 🙋 关于我
+
+- 🎓 **2028 届** · 计算机科学与技术 · 大三在读
+- ☕ **Java 后端** —— Spring Boot / MyBatis / MySQL / Redis / Maven
+- 🤖 **AI Agent 与 RAG** —— Spring AI / LangChain4j，给 [AgentScope Java](https://github.com/agentscope-ai/agentscope-java) 上游合并过 PR
+- 📬 **shdx2024@qq.com**
+
+## 📊 GitHub 数据
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20ELIAUK%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=King52HerTz&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&card_width=400&border_radius=10&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=King52HerTz&show_icons=true&hide_border=true&bg_color=F6F8FA&title_color=0969DA&text_color=1F2328&icon_color=8250DF&card_width=400&border_radius=10&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=King52HerTz&hide_border=true&card_width=400&border_radius=10&background=161B22&border=161B22&stroke=58A6FF&ring=BC8CFF&fire=E3B341&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+    <img height="180" src="https://streak-stats.demolab.com/?user=King52HerTz&hide_border=true&card_width=400&border_radius=10&background=F6F8FA&border=F6F8FA&stroke=0969DA&ring=8250DF&fire=BF8700&currStreakNum=1F2328&sideNums=57606A&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" />
+  </picture>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&color=36BCF5&lines=Welcome+to+my+GitHub+profile!;I+am+passionate+about+coding!;Java+%7C+TypeScript+%7C+React" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King52HerTz&theme=github_dark" />
+    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King52HerTz&theme=github" />
+  </picture>
 </p>
 
-
-## ✨ 我的技术栈   
-
-![](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
-![](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
-
-## 🛠️ 开发工具与环境  
-
-![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
-![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
-![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
-![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-
-## 交个朋友 👬🏻
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>很高兴认识你！</b> 目前正在潜心学习 Java 后端，期待未来能在这里展示更多硬核作品！ 😊</em>
+## 🐍 贡献记录
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Code%20can%20change%20the%20world!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/King52HerTz/King52HerTz/output/snake-dark.svg" />
+    <img alt="贡献蛇" src="https://raw.githubusercontent.com/King52HerTz/King52HerTz/output/snake.svg" />
+  </picture>
 </p>
+
+## 🧰 技术栈
+
+**Java 后端**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+</p>
+
+**AI Agent · RAG**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAG%20%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90-8957E5?style=for-the-badge" />
+</p>
+
+## 📫 找到我
+
+<p align="center">
+  <a href="mailto:shdx2024@qq.com"><img src="https://img.shields.io/badge/Email-shdx2024%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/King52HerTz"><img src="https://img.shields.io/badge/GitHub-King52HerTz-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:1F6FEB&height=120&section=footer&fontSize=1" />
+
+</div>
