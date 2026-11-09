@@ -17,8 +17,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King52HerTz&theme=github_dark" />
-    <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=King52HerTz&theme=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/King52HerTz/King52HerTz/main/profile/stats-dark.svg" />
+    <img alt="GitHub 评级与统计" src="https://raw.githubusercontent.com/King52HerTz/King52HerTz/main/profile/stats-light.svg" />
   </picture>
 </p>
 
