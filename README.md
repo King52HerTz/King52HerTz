@@ -16,10 +16,7 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/King52HerTz/King52HerTz/main/profile/stats-dark.svg" />
-    <img alt="GitHub 评级与统计" src="https://raw.githubusercontent.com/King52HerTz/King52HerTz/main/profile/stats-light.svg" />
-  </picture>
+  <img alt="GitHub 统计数据与评级" src="https://raw.githubusercontent.com/King52HerTz/King52HerTz/main/profile/stats.svg" />
 </p>
 
 <p align="center">
