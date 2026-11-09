@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=F6F8FA&title_color=0969DA&text_color=1F2328&icon_color=8250DF&border_radius=10&card_width=620&locale=cn&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=F6F8FA&title_color=0969DA&text_color=1F2328&icon_color=8250DF&border_radius=10&card_width=620&locale=cn&hide=contribs&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_radius=10&card_width=620&locale=cn&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_radius=10&card_width=620&locale=cn&hide=contribs&custom_title=Eliauk%20%C2%B7%20GitHub%20Stats
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
