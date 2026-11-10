@@ -39,6 +39,18 @@ def flatten(path: str) -> None:
     # 其余动画全部去掉（keyframes 留着无害，但引用会被删干净）
     svg = re.sub(r"animation:\s*(?!none)[^;]+;", "", svg)
 
+    # 评级字母居中：原实现把文字放在 x=-5 y=3，相对圆心 (-10, 8) 偏了半个字，
+    # 视觉上像没对齐。直接用圆心的 cx/cy 定位文字。
+    rim = re.search(r'class="rank-circle-rim"\s+cx="(-?[\d.]+)"\s+cy="(-?[\d.]+)"', svg)
+    if rim:
+        cx, cy = rim.group(1), rim.group(2)
+        svg = re.sub(
+            r'(<text\s+)x="-?[\d.]+"\s+y="-?[\d.]+"([^>]*data-testid="level-rank-icon")',
+            r'\1x="%s" y="%s"\2' % (cx, cy),
+            svg,
+            count=1,
+        )
+
     if svg != original:
         with open(path, "w", encoding="utf-8") as fh:
             fh.write(svg)
